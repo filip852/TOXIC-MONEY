@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{ width:80%;
+font-family: 'Roboto', sans-serif;
+background-color:#FF9900;
+color:#313231;
+padding:10px;
+margin:3% 10%;
+	}
+	
+h1{
+font-family: 'Oswald', sans-serif;}
+	
+p{
+	width:65%;
+	font-size:25px;
+	text-align:center;}
+	
+div{ margin-bottom:10%;}
+
+.q{margin-bottom:3%;}
+	
+.button {
+  background-color: white; 
+  color: #313231; 
+  border: 2px solid #313231;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #313231;
+  color: white;
+}
